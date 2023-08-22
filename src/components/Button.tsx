@@ -7,7 +7,7 @@ interface ButtonProps {
 export function Button(props) {
   return (
     
-      <p>{ props.nome }</p>
+      <p>{ props.name }</p>
     
   )
 }

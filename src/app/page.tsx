@@ -5,9 +5,9 @@ export default function Home() {
       <h1>
         hello world
 
-        <Button nome='diego' />
-        <Button nome='mateus'/>
-        <Button nome='maik'/>
+        <Button name='diego' />
+        <Button name='mateus'/>
+        <Button name='maik'/>
       </h1>
   )
 }
